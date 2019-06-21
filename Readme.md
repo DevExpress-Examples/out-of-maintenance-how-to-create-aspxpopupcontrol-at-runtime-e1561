@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to create ASPxPopupControl at runtime
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1561/)**
+<!-- run online end -->
 
 
 <p>This example illustrates a simple way in which to create an ASPxPopupControl at runtime.</p>
